@@ -3,23 +3,23 @@ font-size: xx-large;}
 .containaire{
     background-color: rgb(211, 210, 210);
 }
-.film{ 
 
-    
-}
 .affiche{
-    width: 300px;
+  width: 269.98px;
     height: 400px;
     
   
   
 }
-.synopsis{ width: 80px;
-    height: 280px;}
+.synopsis{ overflow-y: scroll;
+  
+    height: 280px;
+    
+}
 
 
 .titreFilm{
-    font-size: large;
+    width: 120px;
     
 }
-.stars{width: 180px;}
+.stars{width: 120px;}
